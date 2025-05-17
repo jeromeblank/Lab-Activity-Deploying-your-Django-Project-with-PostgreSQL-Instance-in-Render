@@ -1,1 +1,0 @@
-# Lab-Activity-Deploying-your-Django-Project-with-PostgreSQL-Instance-in-Render
